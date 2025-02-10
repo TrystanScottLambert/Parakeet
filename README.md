@@ -1,3 +1,3 @@
 # Parakeet 🦜
 
-Python package for reading in mock-cataglogue parquet files from the WAVES team.
+Program for reading in .prkt files. These are small databases where the data is often pieced together slowly over time.
