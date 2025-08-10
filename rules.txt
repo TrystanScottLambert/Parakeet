@@ -1,7 +1,8 @@
 0. The file must have either a .prkt, .parakeet, or .🦜
-1. Must start with a schema entry
-2. Schema entry must start with the type of the entry-id [int, string, date]
-3. Each field must be defined in the schema entry with a data type [int, string, float, date]
-4. All entries need a unique entry-id which matches the schema entry
-5. All field values must have a data type set buy the schema entry or be empty.
-6. Every entry needs to have the exact same fields as defined by the schema entry.
+1. There cannot be multiple . in the file name.
+2. Must start with a schema entry
+3. Schema entry must start with the type of the entry-id [int, string, date]
+4. Each field must be defined in the schema entry with a data type [int, string, float, date]
+5. All entries need a unique entry-id which matches the schema entry
+6. All field values must have a data type set buy the schema entry or be empty.
+7. Every entry needs to have the exact same fields as defined by the schema entry.
