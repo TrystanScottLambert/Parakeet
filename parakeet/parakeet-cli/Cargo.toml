@@ -1,9 +1,0 @@
-[package]
-name = "parakeet-cli"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
-parakeet = { path = "../parakeet" }
-clap = {version = "4.0", features=["derive"] }
-
