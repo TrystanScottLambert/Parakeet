@@ -1,0 +1,29 @@
+int:
+	Name: string
+	Surname: string
+	Date_of_Talk: date
+	Invited: bool
+	Reminded: bool
+	Title: string
+	Abs: string
+	Bio: string
+
+1:
+	Name: Trystan
+	Surname: Lambert
+	Date_of_Talk: 01/01/2025
+	Invited: True
+	Reminded: False
+	Title: Talking about Parakeet
+	Abs: I am going to talk about parakeet.
+	Bio: Amazing astronomer and rustacean
+
+2:
+	Name: Nadia
+	Surname: Steyn
+	Date_of_Talk:
+	Invited: False
+	Reminded: False
+	Title: Why Parakeet file format is amazing.
+	Abs:
+	Bio:
