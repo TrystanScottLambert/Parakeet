@@ -1,0 +1,16 @@
+int:
+	name: string
+	age: int
+	job: string
+
+
+1:
+	name: Steve
+	age: 12
+	job: mine worker
+
+
+2:
+	name: Jacob
+	age: 10
+	job: factory worker
